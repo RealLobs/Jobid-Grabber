@@ -7,7 +7,7 @@
 # Loadstring
 
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/RealLobs/Jobid-Grabber/main/source.Lua'))()
+loadstring(game:GetObjects('rbxassetid://11651502180')[1].Source)()
 ```
 # Supported Executors
 
@@ -17,4 +17,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/RealLobs/Jobid-Grabbe
 * Synapse X
 * Scriptware Desktop
 * Arceus X (Maybe)
+* Most exploits with WRD API, Oxygen API & Krnl API
 * Probably most Desktop executors (not sure)
