@@ -1,8 +1,8 @@
 # Credits
 
-Scripting done by Lobs
-GUI Made by Lobs
-GUI Converted to script by GUI To LUA
+* Scripting done by Lobs
+* GUI Made by Lobs
+* GUI Converted to script by GUI To LUA
 
 # Loadstring
 
