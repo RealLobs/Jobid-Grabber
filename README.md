@@ -21,3 +21,7 @@ loadstring(game:GetObjects('rbxassetid://11657131991')[1].Source)()
 * Arceus X (Maybe)
 * Most exploits with WRD API, Oxygen API & Krnl API
 * Probably most Desktop executors (not sure)
+
+# More info
+
+* You should use the loadstring shown on top, since it works better and updates faster
