@@ -7,7 +7,7 @@
 # Loadstring
 
 ```lua
-loadstring(game:GetObjects('rbxassetid://11651502180')[1].Source)()
+loadstring(game:GetObjects('rbxassetid://11657131991')[1].Source)()
 ```
 # Supported Executors
 
